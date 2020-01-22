@@ -34,12 +34,8 @@ main: #简历主要内容，
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - JavaScript
-    summary: 职务或者工作总结(自动折叠)
     - Python
-    summary: 职务或者工作总结(自动折叠)
     - C++
-    summary: 职务或者工作总结(自动折叠)
-  
 
 - type: experience
   name: 经验
